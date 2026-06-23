@@ -68,9 +68,7 @@ Since SoundPlug is a standard Swift Package Manager executable, you can build an
 ### Via Command Line
 
 1. Clone or navigate to the SoundPlug directory:
-   ```bash
-   cd /Users/zaid/Desktop/Projects/SoundPlug
-   ```
+   
 2. Build the project:
    ```bash
    swift build -c release
