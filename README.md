@@ -80,13 +80,6 @@ Since SoundPlug is a standard Swift Package Manager executable, you can build an
    .build/release/SoundPlug
    ```
 
-### Via Xcode
-
-1. Open Xcode.
-2. Choose **Open a Project or File** and select the root directory `/Users/zaid/Desktop/Projects/SoundPlug` (Xcode will automatically load it as a Swift Package).
-3. Select the `SoundPlug` executable run scheme.
-4. Click **Run** (Cmd + R).
-
 ---
 
 ## Full Setup & Audio Routing Guide
